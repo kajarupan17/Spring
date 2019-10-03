@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\assiment SGIC\spring assiment\SpringMVC+Hibernate\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1495048804.index
+1445677870.index
+2049136308.index
+4090393412.index
+501099857.index
+2561866643.index
